@@ -8,7 +8,7 @@ In the CSS I've added `scroll-behaviour: smooth`
 Works without JavaScript and partially without CSS (things may look off)
 
 Works from IE9
-![IE9](https://github.com/meesrutten/browser-technologies/blob/master/opdracht3/readme-images/ie9.png "IE9 Test")
+![IE9](https://github.com/meesrutten/accessible-carousel/blob/master/ie9.png "IE9 Test")
 
 
 - `Array.prototype.forEach`
